@@ -87,8 +87,10 @@ Best practice would be to avoid exposing the cluster's api endpoints externally,
 
 ### References
 
+- <https://github.com/kubernetes-sigs/cluster-api>
 - <https://github.com/ionos-cloud/cluster-api-provider-proxmox>
 - <https://github.com/siderolabs/cluster-api-bootstrap-provider-talos>
+- <https://github.com/siderolabs/cluster-api-control-plane-provider-talos>
 - <https://a-cup-of.coffee/blog/talos-capi-proxmox/>
 
 ## static-site: A Helm chart to maintain a static site from git, on secured Apache
