@@ -3,7 +3,17 @@ entries:
   cluster-chart:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-11-03T23:36:01.726312Z"
+    created: "2025-11-03T23:48:06.116509Z"
+    description: A Helm chart to generate Cluster API managed Cluster manifests.
+    digest: 18df3efbbe05e8d7e07a7b3db35a080a3ea1ac0f96045d804ff0ceb8e847a74e
+    name: cluster-chart
+    type: application
+    urls:
+    - cluster-chart-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-11-03T23:48:06.116091Z"
     description: A Helm chart to generate Cluster API managed Cluster manifests.
     digest: 0c1e984adb3290ff8a9482e1958f6a1efcdb36882299344a994a82c889c452c8
     name: cluster-chart
@@ -13,7 +23,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-11-03T23:36:01.72588Z"
+    created: "2025-11-03T23:48:06.115435Z"
     description: A Helm chart to generate Cluster API managed Cluster manifests.
     digest: 408a727372a65f8dfcf71771bb8cf7312c267e06fb6ba76e08d6d6b276d0bddd
     name: cluster-chart
@@ -24,7 +34,7 @@ entries:
   libretime:
   - apiVersion: v2
     appVersion: 4.0.0
-    created: "2025-11-03T23:36:01.72952Z"
+    created: "2025-11-03T23:48:06.120458Z"
     description: A Helm chart for libretime
     digest: 901a4247fcd65e491b10cebf22ac7f3d1929d00358aa98492b6a45b2f14fed9f
     home: https://github.com/MoTTTT/libretime-helm
@@ -47,7 +57,7 @@ entries:
     version: 0.4.1
   - apiVersion: v2
     appVersion: 4.0.0
-    created: "2025-11-03T23:36:01.72873Z"
+    created: "2025-11-03T23:48:06.119558Z"
     description: A Helm chart for libretime
     digest: e98a014e9a3bc07b18b5bdb5d6f29df4ff2518acc44f1e9bf72e5a8a310e6c66
     home: https://github.com/MoTTTT/libretime-helm
@@ -70,7 +80,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 4.0.0
-    created: "2025-11-03T23:36:01.728031Z"
+    created: "2025-11-03T23:48:06.118682Z"
     description: A Helm chart for libretime
     digest: ad8218413ba090baf1baa8cdeddc94d4a759499c1fd868c3ae81f40cc859001c
     home: https://github.com/MoTTTT/libretime-helm
@@ -93,7 +103,7 @@ entries:
     version: 0.3.91
   - apiVersion: v2
     appVersion: 4.0.0
-    created: "2025-11-03T23:36:01.727028Z"
+    created: "2025-11-03T23:48:06.117463Z"
     description: A Helm chart for libretime
     digest: 8e4058b70b32b44a993554335ce03b48db6a42350b64e4bffc3c8404ec0bd9df
     home: https://github.com/MoTTTT/libretime-helm
@@ -117,7 +127,7 @@ entries:
   static-site:
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2025-11-03T23:36:01.730614Z"
+    created: "2025-11-03T23:48:06.122271Z"
     description: A Helm chart to maintain a static site from git, on secured Apache
     digest: 10462771536a02a9b10ee71cb3fdc880901753a4a5ed2ba590cd0b8cc50d74f1
     icon: https://musings.thruhere.net/images/QSolutionsApplications.svg
@@ -128,7 +138,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2025-11-03T23:36:01.730123Z"
+    created: "2025-11-03T23:48:06.12123Z"
     description: A Helm chart to maintain a static site from git, on secured Apache
     digest: 713047186a37de09f8ea5bb2350fa21b42d8b0cd5b5ef47b60d34647f6da4dd7
     icon: https://musings.thruhere.net/images/QSolutionsApplications.svg
@@ -137,4 +147,4 @@ entries:
     urls:
     - static-site-0.1.0.tgz
     version: 0.1.0
-generated: "2025-11-03T23:36:01.723893Z"
+generated: "2025-11-03T23:48:06.113118Z"
