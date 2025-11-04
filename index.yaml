@@ -3,7 +3,17 @@ entries:
   cluster-chart:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-11-04T00:08:38.45492Z"
+    created: "2025-11-04T00:26:14.570664Z"
+    description: A Helm chart to generate Cluster API managed Cluster manifests.
+    digest: 8ef403046ba72de9567bae5741cea95d458ab18ed6bf3599bc451f9dc2783173
+    name: cluster-chart
+    type: application
+    urls:
+    - cluster-chart-0.1.4.tgz
+    version: 0.1.4
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-11-04T00:26:14.570374Z"
     description: A Helm chart to generate Cluster API managed Cluster manifests.
     digest: 34e1438e0f04a5bcbed1865e695f6a9a2e287585ad52741839ecb679b0a30f56
     name: cluster-chart
@@ -13,7 +23,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-11-04T00:08:38.454532Z"
+    created: "2025-11-04T00:26:14.569843Z"
     description: A Helm chart to generate Cluster API managed Cluster manifests.
     digest: 18df3efbbe05e8d7e07a7b3db35a080a3ea1ac0f96045d804ff0ceb8e847a74e
     name: cluster-chart
@@ -23,7 +33,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-11-04T00:08:38.452953Z"
+    created: "2025-11-04T00:26:14.568611Z"
     description: A Helm chart to generate Cluster API managed Cluster manifests.
     digest: 0c1e984adb3290ff8a9482e1958f6a1efcdb36882299344a994a82c889c452c8
     name: cluster-chart
@@ -33,7 +43,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-11-04T00:08:38.452353Z"
+    created: "2025-11-04T00:26:14.568135Z"
     description: A Helm chart to generate Cluster API managed Cluster manifests.
     digest: 408a727372a65f8dfcf71771bb8cf7312c267e06fb6ba76e08d6d6b276d0bddd
     name: cluster-chart
@@ -44,7 +54,7 @@ entries:
   libretime:
   - apiVersion: v2
     appVersion: 4.0.0
-    created: "2025-11-04T00:08:38.458067Z"
+    created: "2025-11-04T00:26:14.573801Z"
     description: A Helm chart for libretime
     digest: 901a4247fcd65e491b10cebf22ac7f3d1929d00358aa98492b6a45b2f14fed9f
     home: https://github.com/MoTTTT/libretime-helm
@@ -67,7 +77,7 @@ entries:
     version: 0.4.1
   - apiVersion: v2
     appVersion: 4.0.0
-    created: "2025-11-04T00:08:38.457333Z"
+    created: "2025-11-04T00:26:14.573018Z"
     description: A Helm chart for libretime
     digest: e98a014e9a3bc07b18b5bdb5d6f29df4ff2518acc44f1e9bf72e5a8a310e6c66
     home: https://github.com/MoTTTT/libretime-helm
@@ -90,7 +100,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 4.0.0
-    created: "2025-11-04T00:08:38.456621Z"
+    created: "2025-11-04T00:26:14.572303Z"
     description: A Helm chart for libretime
     digest: ad8218413ba090baf1baa8cdeddc94d4a759499c1fd868c3ae81f40cc859001c
     home: https://github.com/MoTTTT/libretime-helm
@@ -113,7 +123,7 @@ entries:
     version: 0.3.91
   - apiVersion: v2
     appVersion: 4.0.0
-    created: "2025-11-04T00:08:38.455676Z"
+    created: "2025-11-04T00:26:14.571474Z"
     description: A Helm chart for libretime
     digest: 8e4058b70b32b44a993554335ce03b48db6a42350b64e4bffc3c8404ec0bd9df
     home: https://github.com/MoTTTT/libretime-helm
@@ -137,7 +147,7 @@ entries:
   static-site:
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2025-11-04T00:08:38.459369Z"
+    created: "2025-11-04T00:26:14.575979Z"
     description: A Helm chart to maintain a static site from git, on secured Apache
     digest: 10462771536a02a9b10ee71cb3fdc880901753a4a5ed2ba590cd0b8cc50d74f1
     icon: https://musings.thruhere.net/images/QSolutionsApplications.svg
@@ -148,7 +158,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2025-11-04T00:08:38.458784Z"
+    created: "2025-11-04T00:26:14.575456Z"
     description: A Helm chart to maintain a static site from git, on secured Apache
     digest: 713047186a37de09f8ea5bb2350fa21b42d8b0cd5b5ef47b60d34647f6da4dd7
     icon: https://musings.thruhere.net/images/QSolutionsApplications.svg
@@ -157,4 +167,4 @@ entries:
     urls:
     - static-site-0.1.0.tgz
     version: 0.1.0
-generated: "2025-11-04T00:08:38.450153Z"
+generated: "2025-11-04T00:26:14.565394Z"
